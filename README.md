@@ -24,7 +24,7 @@ class Calculator(object):
         return 2 * number
 
 if __name__ == '__main__':
-    executioner.Execute(Calculator())
+    executioner.Executioner(Calculator())
 ```
 If you were to take this file and do the following: 
 ```python3 calculator.py double 20```
