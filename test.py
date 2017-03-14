@@ -2,7 +2,7 @@ from executioner import Executioner as ex
 
 class test(object):
     def __init__(self):
-        self.out_param = 'int'
+        self.out_param = 'string'
         self.double_param = 'int'
     def out(self, dope):
         print(dope)
