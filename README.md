@@ -43,7 +43,7 @@ Please see CONTRIBUTING.md for contribution guidelines.
 * Tom Orth (atf1999)
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE file for details
 
 ## Acknowledgements
 * Inspired by [python-fire](https://www.github.com/google/python-fire), which I found to be rather slow when using it
